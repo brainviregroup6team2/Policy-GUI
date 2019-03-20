@@ -1,0 +1,10 @@
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\bin\Debug\Policy GUI.exe.config
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\bin\Debug\Policy GUI.exe
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\bin\Debug\Policy GUI.pdb
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy GUI.csprojResolveAssemblyReference.cache
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy_GUI.Form1.resources
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy_GUI.Properties.Resources.resources
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy GUI.csproj.GenerateResource.Cache
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy GUI.csproj.CoreCompileInputs.cache
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy GUI.exe
+E:\University\Year 2\Professionalism\Policy GUI\Policy GUI\obj\Debug\Policy GUI.pdb
